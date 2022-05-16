@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dudenoob34/dudenoob34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
 - 🔭 I’m currently working on a way to stop @PlainSys
@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I have no idea what the **FUCK** im doing. Well, I kinda do.
 
 _i want to put a picture right here... vvv_
--->
+
 
