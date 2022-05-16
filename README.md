@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have no idea what the **FUCK** im doing. Well, I kinda do.
 
 _i want to put a picture right here... vvv_
+-->
