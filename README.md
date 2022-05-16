@@ -1,4 +1,6 @@
-###👋
+### 👋 Heya, I'm dudenoob34. But my everyone calls me dude.
+
+heres some stuff about me vVv
 
 ------
 - 🔭 I’m currently working on a way to stop @PlainSys
