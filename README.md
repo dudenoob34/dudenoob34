@@ -1,8 +1,7 @@
-### 👋 Heya, I'm dudenoob34. But my everyone calls me dude.
+### 👋 Heya, I'm dudenoob34. But everyone calls me dude.
 
 heres some stuff about me vVv
 
-------
 - 🔭 I’m currently working on a way to stop @PlainSys
 - 🌱 I’m currently learning why @PlainSys wont give me Polyheck-2 Remastered
 - 👯 I’m looking to collaborate with anyone willing to attack my friend to get Polyheck-2 Remastered via legal methods
