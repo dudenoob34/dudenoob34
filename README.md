@@ -13,3 +13,20 @@ heres some stuff about me vVv
 _i want to put a picture right here... vvv_
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######i also like touhou...
+
