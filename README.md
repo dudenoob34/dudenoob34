@@ -1,7 +1,5 @@
-### Hi there 👋
+###👋
 
-
-**dudenoob34/dudenoob34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
 - 🔭 I’m currently working on a way to stop @PlainSys
 - 🌱 I’m currently learning why @PlainSys wont give me Polyheck-2 Remastered
