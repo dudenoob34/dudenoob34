@@ -8,7 +8,7 @@ heres some stuff about me vVv
 - 🤔 I’m looking for help with dealing with @PlainSys and his _randomness_
 - 💬 Tell me things about how to use github properly
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think plain is not a nice person...
+- ⚡ Fun fact: I think plain is ███ █ ████ █████████
 
 
 ‎ ‎ ‎ ‎ ‎ 
