@@ -28,5 +28,5 @@ heres some stuff about me vVv
 ‎ ‎ ‎ ‎ 
 ‎ ‎ ‎ ‎ 
 ‎ ‎ ‎ 
-###### i also like touhou...
+###### i think lua is uncool...
 
