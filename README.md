@@ -7,6 +7,7 @@ heres some stuff about me
 - 💬 Tell me things about how to use github properly
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im not dead
+
 ![dudenoob34's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudenoob34&show_icons=true&theme=tokyonight)
 
 ###### @PlainSys stopped breathing
