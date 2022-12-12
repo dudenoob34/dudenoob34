@@ -9,5 +9,6 @@ heres some stuff about me
 - ⚡ Fun fact: im not dead
 
 ![dudenoob34's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudenoob34&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudenoob34&layout=compact)]
 
 ###### @PlainSys stopped breathing
